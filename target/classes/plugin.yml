@@ -1,0 +1,18 @@
+name: StarXbedwars
+version: '1'
+main: org.yashar.starxbedwars.StarXbedwars
+api-version: '1.8.8'
+softdepend: [BedWars1058]
+commands:
+  gma:
+    description: You can change your gamemode to advanture
+  gmc:
+    description: You can change your gamemode to creative
+  gms:
+    description: You can change your gamemode to survival
+  gmsp:
+    description: You can change your gamemode to spectrator
+  starxbw:
+    description: Plugin Command
+  map:
+    description: GetMap name

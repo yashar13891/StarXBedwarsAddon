@@ -1,0 +1,10 @@
+org\yashar\starxbedwars\Commands\gms.class
+org\yashar\starxbedwars\Commands\gma.class
+org\yashar\starxbedwars\Commands\starxbw.class
+org\yashar\starxbedwars\Commands\gmsp.class
+org\yashar\starxbedwars\configpath.class
+org\yashar\starxbedwars\StarXbedwars.class
+org\yashar\starxbedwars\Commands\gamemode.class
+org\yashar\starxbedwars\Commands\gmc.class
+org\yashar\starxbedwars\Commands\map.class
+org\yashar\starxbedwars\config.class
